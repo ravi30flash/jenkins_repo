@@ -1,6 +1,8 @@
 # step 1 : install java
 # step 2 : install jenkins
-# step 3 : open in browser : <ip address>:8080
+# step 3 : systemctl start jenkins
+# step 4 : systemctl enable jenkins
+# step 5 : open in browser : <ip address>:8080
 
 # install java
 
